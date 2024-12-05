@@ -13,4 +13,4 @@ param spokeNetworkName = 'vnet-ragonazure213-spoke'  // ChangeMe（スポークV
 // Bastion Host の名前
 param bastionName = 'bas-ragonazure213'  // ChangeMe（末尾の数字を変える）
 
-param location = 'westus'
+param location = 'australiaeast'

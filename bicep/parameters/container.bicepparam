@@ -13,4 +13,4 @@ param subnetName = 'ContainerAppsSubnet'
 
 param containerAppsName = 'ca-ragonazure213'  // ChangeMe（末尾の数字を変える）
 
-param location = 'westus'
+param location = 'australiaeast'

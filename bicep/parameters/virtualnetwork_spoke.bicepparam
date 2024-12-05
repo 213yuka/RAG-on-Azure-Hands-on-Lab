@@ -16,4 +16,4 @@ param containerAppsSubnet = 'ContainerAppsSubnet'
 param containerAppsSubnetPrefix = '10.1.10.0/23'
 
 // Bastion Developer SKU 使用時は CentralUSEUAP, EastUS2EUAP, WestCentralUS, NorthCentralUS, WestUS, NorthEurope から選択
-param location = 'westus'
+param location = 'australiaeast'
