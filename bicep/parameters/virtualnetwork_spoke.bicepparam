@@ -1,6 +1,6 @@
 using '../modules/virtualnetwork_spoke.bicep'
 
-param vnetName = 'vnet-ragonazure213-spoke'  // ChangeMe（スポークVNETの名前を指定）
+param vnetName = 'vnet-213ragonazure-spoke'  // ChangeMe（スポークVNETの名前を指定）
 param addressPrefix = '10.1.0.0/16'
 
 param subnet1Name = 'subnet-1'
